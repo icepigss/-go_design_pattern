@@ -1,1 +1,1 @@
-# go_design_pattern
+# go design pattern
